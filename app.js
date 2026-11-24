@@ -1,12 +1,12 @@
 // Firebase client configuration supplied for the IBM Tarapur / CRCW project.
 const firebaseConfig = {
-  apiKey: "AIzaSyAhWfGdC-KVWGYskpwjLEEgMcfJzLyn8so",
-  authDomain: "ibm-tarapur-crcw-roster.firebaseapp.com",
-  projectId: "ibm-tarapur-crcw-roster",
-  storageBucket: "ibm-tarapur-crcw-roster.firebasestorage.app",
-  messagingSenderId: "77798462001",
-  appId: "1:77798462001:web:6ec8514332ac418de7fb10",
-  measurementId: "G-WP25ZV66D4"
+  apiKey: "AIzaSyALcM0goyyYpGOYBhiL2oOzWkIORDmDbAg",
+  authDomain: "ibm-tarapur-crcw-roster-27edf.firebaseapp.com",
+  projectId: "ibm-tarapur-crcw-roster-27edf",
+  storageBucket: "ibm-tarapur-crcw-roster-27edf.firebasestorage.app",
+  messagingSenderId: "187295715241",
+  appId: "1:187295715241:web:16149f75925bbbf9177eb8",
+  measurementId: "G-G6V39N57L5"
 };
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
